@@ -122,6 +122,8 @@
             }
             function BreakTime(){
                 var timeis = 300.0 - 1;
+                notifyMe();
+
                 var el = document.getElementById('seconds-counter');
                 el.classList.add("breaktime");
                 
@@ -168,8 +170,8 @@
         var onako = document.getElementById("onako");
         var znam = document.getElementById("znam");
         function getDancers() {
-            notifyMe();
             openFullscreen();
+            notifyMe();
             var textarea = document.getElementById("here");
             var divhere = document.getElementById("divhere");
             array = textarea.value.split("\n");
@@ -278,7 +280,7 @@
             // show notification here
             console.log("granted");
             var notify = new Notification('Hi there!', {
-                body: 'How are you doing?',
+                body: 'Isteklo ti vreme, sad daj mozgu da se relaksira 5 minutaa?',
                 icon: 'https://bit.ly/2DYqRrh',
             });
         } else {
@@ -289,7 +291,7 @@
                 if (p === 'granted') {
                     // show notification here
                     var notify = new Notification('Hi there!', {
-                        body: 'How are you doing?',
+                        body: 'Isteklo ti vreme, sad daj mozgu da se relaksira 5 minutaa',
                         icon: 'https://bit.ly/2DYqRrh',
                     });
                 } else {
@@ -300,6 +302,9 @@
             });
         }
     }
+
+    var audio = new Audio('alarm.mp3');
+    audio.play();
 }
         
 
