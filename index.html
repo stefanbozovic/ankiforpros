@@ -93,8 +93,8 @@
     </div>
     <div>
         <h6 id="seconds-counter" title="Mozak moze samo 25 minuta da se fokusira na jednu stvar"> 25:00
-            </canvas>
         </h6>
+        <button onclick="stopSound()">Stop Sound</button>
         <script>
             var r=10;
             var cancel;
@@ -146,6 +146,8 @@
 </div> 
     <script>
         var elem = document.getElementById("body");
+        var audio = new Audio('alarm.mp3');
+
 
         function openFullscreen() {
             if (elem.requestFullscreen) {
@@ -302,9 +304,11 @@
             });
         }
     }
-    var audio = new Audio('alarm.mp3');
     console.log("tried");
     audio.play();
+}
+function stopSound(){
+    audio.pause();
 }
         
 
