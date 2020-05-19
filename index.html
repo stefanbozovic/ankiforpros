@@ -67,7 +67,12 @@
         body{
             margin: 0px;
         }
-        
+        #refresh{
+            background-image: url("1-minute.gif");
+            
+            background-size: cover;
+            background-position: center;
+        }
         
     </style>
 </head>
@@ -87,14 +92,14 @@
     <div id="divhere">
         <br><br><br><br><br><br><br>
     </div>
-    <button id="submit" onclick="location.reload();">AKO SI ZAVRSIO IDEMO DALJE</button>
+    <button id="submit refresh" onclick="location.reload();">PISI!!!!!!!! DA TI MISLI NE BI LUTALE</button>
     <div id="myProgress">
         <div id="myBar">0%</div>
     </div>
     <div>
         <h6 id="seconds-counter" title="Mozak moze samo 25 minuta da se fokusira na jednu stvar"> 25:00
+            </canvas>
         </h6>
-        <button onclick="stopSound()">Stop Sound</button>
         <script>
             var r=10;
             var cancel;
@@ -146,8 +151,6 @@
 </div> 
     <script>
         var elem = document.getElementById("body");
-        var audio = new Audio('alarm.mp3');
-
 
         function openFullscreen() {
             if (elem.requestFullscreen) {
@@ -173,6 +176,7 @@
         var znam = document.getElementById("znam");
         function getDancers() {
             openFullscreen();
+            notifyMe();
             var textarea = document.getElementById("here");
             var divhere = document.getElementById("divhere");
             array = textarea.value.split("\n");
@@ -303,11 +307,9 @@
             });
         }
     }
+    var audio = new Audio('alarm.mp3');
     console.log("tried");
     audio.play();
-}
-function stopSound(){
-    audio.pause();
 }
         
 
