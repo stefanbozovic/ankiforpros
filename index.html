@@ -73,13 +73,45 @@
             background-position: center;
             background-repeat: no-repeat !important;
         }
+        #praises{
+            display: none;
+        }
     </style>
 </head>
 <body title="Ne razmisljaj mnogo">
 <div id="body" >
 
    
-    <p>UBACI TEKST I KLIKNI DUGME, NAUCI KORISTECI!</p>
+    <p id="headertext">UBACI TEKST I KLIKNI DUGME, NAUCI KORISTECI!</p>
+    <p id="praises">Do you know that You did it!
+Great job!
+Do you know that You are a TREASURE!
+Keep it up until you are as brilliant as you can be!!!
+Do you know that Succes only comes once, but a failure is a constant companion
+Do you know that you can CHANGE?
+"Pain is temporary, victory is forever" Aatrox
+"A true master is an eternal student" - Yi
+"Its not how much time you have, it's how you use it" - Ekko
+"I'd rather make mistakes than make nothing at all" - Ekko
+"People fear what they do not understand" - Syndra
+"The darker the night, the brighter the stars" - Braum
+If you can't make the most out of any given moment, you don't deserve a single extra second.
+"Learn from your mistakes." - Riven
+"To conquer our fears, wse must move forward."
+"If I stumble, I have the earth to catch me."
+“There are no shortcuts to any place worth going.”
+Terrific progress!
+impressive!
+Far Out!
+Outstanding. Performance.
+The Time You Put in
+Shows
+Amazing Effort!
+You Go the Extra Mile
+I Knew You Had It In You
+Way to Go!
+Excellent!
+    </p>
     <textarea type="text" id="here" value="" >
 
     </textarea>
@@ -100,15 +132,36 @@
             </canvas>
         </h6>
         <script>
+            var ap = document.getElementById('praises');
+            praisesarr = ap.textContent.split("\n");
+            console.log(praisesarr);
             var r=10;
             var cancel;
+            var praisesarr;
+            var control=0;
             function pad(d) {
                 return (d < 10) ? '0' + d.toString() : d.toString();
             }
+            function getPraise(){
+                return praisesarr[Math.floor(Math.random()*praisesarr.length)];
+            }
             function WorkTime(){
+                
                 var timeis = 1500.0;
                 var el = document.getElementById('seconds-counter');
                 function incrementSeconds() {
+                    if(timeis>=(1500-5) && control==0){
+                        var ht = document.getElementById('headertext');
+                        ht.innerHTML=" " + getPraise();
+                        control=1;
+                    }
+                    else{
+                        if(timeis==(1500-5)){
+                            var ht = document.getElementById('headertext');
+                            ht.innerHTML=" ";
+                        }
+                        
+                    }
                     if(timeis==0){
                         myStopFunction();
                         BreakTime();
@@ -125,6 +178,7 @@
                 clearInterval(cancel);
             }
             function BreakTime(){
+                control=0;
                 var timeis = 300.0 - 1;
                 notifyMe();
 
