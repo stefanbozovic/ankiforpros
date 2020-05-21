@@ -1,0 +1,89 @@
+-Objasni razliku izmedju podatka, informacije i znanja!
+PODATAK je nesređena činjenica, koja kad se stavi u kontekst dobijemo INFORMACIJU.
+ZNANJE može biti:
+ eksplicitno - lako se prenosi, može se dobro strukturirati i jasno formalizovati
+ tacitno nesvesno (implicitno) - teško se strukturira, prenosi i formalizuje (voznja bicikla- muscle memory)
+-A sta je poslovna mudrost?
+Znajne + primena
+Ima slika piramida....
+-Navedi strukturu potrebnih znanja rukovodilaca po Robertu Kacu: (ovo znas iz menadzmenta, zar ne?)
+1. tehnička znanja
+2. koncepcijska znanja
+3. humanistička znanja
+-Reci mi sve sto znas o Tehničkim znanjima ODMAH! 
+    potrebna su svim rukovodiocima na NIZIM nivoima,
+    oni su najčešće direktno nadređeni izvršiocima, pa su im tehnička znanja potrebna kako bi
+    mogli da upute svoje kOlEgE u poslove, i uspešno rešavaju tehničke probleme.
+    Na višem nivou rukovođenja potreban je
+    manji nivo tehničkih znanja.
+-Sta su bese Koncepcijska znanja? 
+    obuhvataju MOGUCNOST RAZMISLJANJA o organizaciji i njenim problemima. 
+    na SREDNJIM, a posebno VISIM nivoima.
+    Koncepcijska i tehnička znanja su podjednako potrebna rukovodiocima srednjeg nivoa. (okej tim osrednjima daj sve po malo)
+-Jel mozes da pogodis sta su Humanistička znanja? :D
+    podjenako potrebna svim menadžerima. Svi menadžeri rade sa ljudima, stoga moraju imati
+    znanja i sposobnosti da podređene i saradnike razumeju i usmere U 
+    dobro koordinirane i homogene grupe i timove,
+    potreban su im ZNANJA o ljudskim ponašanjima i stavovima. (svi da znaju sta me pali)
+-Jel prenosenje znanja bitan proeces u organizaciji ili mogu da dam Miri to da radi?
+Prenošenje znanja je važan proces u organizaciji posebno u onim sa većim brojem zaposlenih. 
+Eksplicitna znanja je
+lako preneti, problem je kako da 
+iSkUsNi zaposleni prenesu svoja TaCitNa(volim sto nijedan iskusan radnik ni ne zna da ima ta tacitna) znanja manje iskusnim. 
+(tu je ustvari problem kako da potuljeno stavis do znanja radniku da naplacuje svaku 50 dinara)
+-Sta cemo mi sad da radimo kad glupi radnik ne shvata sta mu pricam izmedju redova? 
+-Sta se koristi u situacijama kada tacitno znanje "ne moze" lako da se prenese?
+koristi se praktični algoritam: A B C
+AAA Odrediti ciljeve i pripremiti okruženje(sto bi se reklo, nastaju promene u firmi)
+1. Odlučiti šta osoba mora da ZNA da bi radila posao sigurno, ekonomično i racionalno(mora da se zna koliko je zivot tezak)
+2. Obezbediti pravo RADNO okruženje, u kakvom će se najčešće odvijati posao (vlazna mracna kancelarija miseva)
+3. Urediti radno mesto onako kako se od osobe očekuje da ga ODRZAVA(tu kancelariju radnik naravno treba da osbosobi)
+BBB Davanje instrukcija
+1. Priprema osobe
+- OPUSTITE osobu koju trenirate
+- Saznajte koja znanja i veštine POSEDUJE
+- ZAINTERESUJTE je za učenje
+2. Razdvajanje rada na komponente
+- Odrediti koji SEGMENTI čine posao
+- Odrediti koji su KLJUCNI aspekti, tj veštine pravog majstora
+3. Predstavljanje operacija i znanja
+- Priče, pokazivanje, ispitivanje da bi se predstavilo novo znanje (ovo svi profesori da nauce)
+- Instrukcije - jasno, polako, jednu po jednu komponentu (JEDNU PO JEDNU)
+- Provera znanja, ispitivanje i ponavljanje (hm dobro)
+4. Uverite se da osoba koja uči RAZUME (a kako to da uradim majke ti)
+CCC Testiranje i kontrola
+1. Praktična PROBA (ovo najvise volis)
+- Testirati osobu na stvarnom poslu
+- Postavljati pitanja sa kako zašto, kada, gde...
+- Posmatrati obavljanje posla i ispravljati greške, ponavljati instrukcije
+- Nastaviti dok osoba nije kompetentna za posao
+2. Prateće aktivnosti (konacno neko ko razume)
+- Ostaviti osobu da radi sama
+- Povremeno proveravati
+- Nastaviti sa dodatnim nadzorom dok osoba nije spremna da radi sa normalnim menadžerskim
+nadzorom
+-Koje teorije se bave sticanjem znanja i koja posebno?
+teorije učenja, među kojima je najviše razmatrana teorija instrumentalnog ili
+operantnog uslovljavanja. 
+-Sta je Skiner zakljucio da utice na ucenju ?
+1. Pozitivno pojačavanje (ako dobijes pet kupujemo ti nov telefon) - davanje nagrade za ponašanje koje želimo da član usvoji.
+2. Negativno pojačavanje - uklanjanje nepoželjne stimulacije (ukoliko zaposlenom zbog stila oblačenja ne dajemo
+zadatke na kojima on sarađuje sa klijentima, a to mu ne odgovara, kada promeni stil oblačenja počinjemo da
+mu dajemo zadatke sa klijentima) RESI ZAPOSLENOG BRE, MI POSTAVLJAMO USLOVE
+3. Kažnjavanje- stimulus koji dolazi zbog nepoželjnog ponašanja koje treba prekinuti. (sad cemo da vidimo dal ces da slusas sta ti se kaze)
+4. Gašenje - model učenja po kom zaposleni prekida ponašanje za koje ne dobija nikakvu povratnu informaciju
+(najveci problem svakog ucenja)
+(kada drugi zaposleni ne cene njegov neki postupak)
+Koje su Metode sticanja znanja? x2
+ U okviru obavljanja redovnog posla
+1. Rotacija poslova - privremeno obavljanje nekog drugog posla u organizaciji
+2. Akciono učenje - menadžeri uče zajedno kroz savladavanje realnih problema i objašnjavanje svojih akcija
+3. Uključivanje u istraživački rad uz posao
+4. Coaching - mentorstvo, učenje, trening (menadžer dobija gurua koji mu pomaže da se razvije)
+ Van okvira obavljanja redovnog posla
+1. Metoda studija slučaja
+2. Menadžerske igre
+3. Trening senzitivnosti - menadžeri postaju osetljiviji u opažanju drugih učesnika u organizaciji
+4. Klasični seminari
+5. Interaktivni online seminari
+6. Igranje uloge - stavljaju se u ulogu nekog drugog (kupca) kako bi stekli znanje o njihovim perspekivama
