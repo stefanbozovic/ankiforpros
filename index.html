@@ -76,6 +76,12 @@
         #praises{
             display: none;
         }
+        #usersname{
+            position:fixed;
+            top: 0px;
+            right: 0px;
+            font-size: 13px;
+        }
     </style>
 
     <script>
@@ -105,8 +111,10 @@
     function checkCookie() {
         console.log("started")
     var user=getCookie("username");
+    var usersname = document.getElementById('usersname');
+
     if (user != "") {
-        alert("Welcome again " + user);
+       usersname.innerHTML="Welcome again " + user;
     } else {
         user = prompt("Please enter your name:","");
         if (user != "" && user != null) {
@@ -121,6 +129,7 @@
 
 <body  title="Ne razmisljaj mnogo">
 <div id="body" >
+    <p id="usersname">Login</p>
     <p id="headertext">UBACI TEKST I KLIKNI DUGME, NAUCI KORISTECI!</p>
     <p id="praises">Do you know that You did it!
 Great job!
