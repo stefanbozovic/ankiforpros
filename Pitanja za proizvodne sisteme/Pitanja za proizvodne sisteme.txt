@@ -1,0 +1,164 @@
+Objasni prvi princip savremene proizvodne filozofije, koji se odnosi na problem kako proizvoditi?-
+Objasni princip savremene proizvodne filozofije, koji objasnjava kako se podedjuje konkurencija?-
+Objasni princip savremene proizvodne filozofije, koji se odnosi na novi proces proizvodnje?-
+Objasni princip savremene proizvodne filozofije, koji se odnosi na plan i planiranje?-
+Objasni princip SPF, koji se odnosi na stvaranje nove vrednosti?-
+Objasni princip SPF, koji se odnosi na kontrolu kvaliteta?-
+Objasni princip SPF, koji se odnosi na vremensko planiranje?-
+Objasni princip SPF, koji se odnosi na troskovni princip?-
+Objasni princip SPF, koji se odnosi na velicinu serije?-
+Objasni princip SPF, koji se odnosi na motivaciju?-
+Objasni princip SPF, koji se odnosi na kvalitet organizovanja?-
+Objasni princip SPF, koji se odnosi na odrednice menadzera?-
+Objasni princip SPF, koji se odnosi na ideje?-
+Objasni princip SPF, koji se odnosi na kadrove?-
+Sta je proces?-
+Za sta su procesi osnova?-
+Koje su vrste procesa po vrsti predmeta rada?-
+Koje su vrste procesa po uticaju na predmet rada?-
+Koje su vrste procesa po posebnosti sistema?-
+Koje su vrste procesa po nacinu odvijanja,toka, izvrsavanja?-
+Koje su vrste procesa po integrisanosti?-
+Koje su vrste procesa po "ispunjenju poslovnih ciljeva" (direktni i indireknti)?-
+Koje su vrste procesa po vrstama nadleznosti i upravljanja?- 
+Koje su vrste procesa po ucestalosti?-
+Koje su vrste procesa po ucescu coveka i opreme?- 
+Koje su vrste procesa po kljucnim fazama stvaranja i funkcionisanja sistema?-
+Nacrtati sematski prikaz procesa?-
+Nacrtati sematski prikaz TOKA procesa !!!!!!! sto puta?-
+PRESKOCIO SI: inzenjering procesa?-
+Nacrtati semu toka aktivnosti procesnog pristupa?-
+Nacrtati i objasniti semu identifikacionog kartona?-
+PRESKOCIO SI: Napisati razlike izmedju UPRAVLJANJA procesima i POBOLJSANJA procesa  x4?-
+Koja su cetiri procesa u proizvodnom sistemu, objasniti svaki?-
+Sta sve obuhvata proizvodni proces?-
+Sta se prvo izvodi na proizvodu?-
+Sta su PROIZVODNA radna mesta?-
+Na kojim radnim mestima se direktno stvara nova vrednost i kako se zove taj RAD?
+Navedi strukturu proizvodnog procesa (tj. elementarne procese u proizvodnji) x7?-
+Koje su razlike izmedju tehnoloskog i proizvodnog proces?-
+Nacrtati sliku Razlike izmedju proizvodnog i tehnoloskog proces?-
+Koja je podela proiz. procesa prema osnovnim vrstama tehnoloskog procesa?-
+PRESKOCIO SI: Vrste proizvodnih procesa!!!?-
+Sta je organizacija proizvodnje?-
+Koji su cinioci od kojih zavisi organizacija proizvodnje?-
+Cime je organizacija proizvodnje odredjena?-
+Koja su Osnovna sredstva proizvodnje?-
+Koja tri cinioca najvise opredeljuju organizaciju proizvodnje?-
+Koje su vrste organizovanje proizvodnje?-
+1. Objasni tehnolosku organizaciju?-
+Teh. proces ugradjen u sred. za pr.
+Obim i nacin org. elementarnih procesa je odredjen sred. za pr.
+Zahteva skupa sred. za pr.
+Fleksibilnost proizvodnje je mala
+Primena u baznoj ind. i fabrikama sa hemijskim i fizickim procesima.
+2. Objasni obradnu organizaciju?-
+Vrste obrade odredjuju 
+razmestaj sred. za pr.
+i oblik organizovanja proizvodnje 
+Masine su rasporedjene po vrstama obrade, a 
+potrebni su visoko strucni radnici na masinama.
+Fleksibilnost proizvodnje je velika 
+Primena u Serijskoj proizvodnji i metalopreradjivackim industijama
+3. Objasni predmetnu organizaciju?-
+Predmet rada opredeljuje nacin organizovanja proiz.
+Masine se rasporedjuju po redosledu operacija
+Koriste se u masovnoj proizvodnji
+Sred. za pr. su skupa i specijalizovana
+Fleksibilnost je mala.
+Sta je organizacija rada u sirem smislu?-
+Sta je organizacija rada u uzem smislu?-
+Koje dve grupe cinioca uticu na efiksanost radnih mesta i produktivnost rada?-
+Sta je radno mesto?-
+Od cega se sastoji radno mesto?-
+Kada je posao radnog mesta celovit?-
+Sta cini sredstva za rad?-
+Sta karakterise prostor za rad?-
+Koja je razlika izmedju posla i radnog zadatka?-
+NACRTATI semu radnog mesta i medjusobne zavisnosti njegovih cinioca?-
+Kada kazemo da je radno mesto gotovo?-
+Koje su dve odrednice cinioca za gotovost radnog mesta?-
+PRESKOCIO SI:Sema gotovosti radnog mesta?-
+Koja tri organizaciona vida radnih mesta postoje?-
+Ojbasni otvoreno radno mesto x21?-
+Ojbasni zatvoreno radno mesto?-
+Ojbasni stabilizovano radno mesto?-
+Koji su pokazatelji nacina rada  ORM, ZRM, SRM?-
+Nacrtaj strukturu raspolozivog vremena ORM?-
+Napisi formule za ORM?-
+Nacrtaj strukturu raspolozivog vremena ZRM?-
+Napisi formule za ZRM?-
+Nacrtaj strukturu raspolozivog vremena SRM?-
+Napisi formule za SRM?-
+Koji je postupak zatvaranja radnih mesta x15?-
+Sta je potrebno da bi se sagledale i iskoristile mogucnosti zatvaranja radnog  mesta x4?-
+Navesti i objasnisti pravila za zatvaranje radnih mesta X5?-
+________ je mera kvaliteta organizovanja?-
+PRESKOCIO SI:Sta je nivo organizovanosti?
+Koje su funkcije u proizvodnom sistemu?-
+Sta mora da se uradi pre izrade plana proizvodnje?-
+Nacrtati semu - Utvrdjivanje akumulativnosti proizvoda kao deo sistema upravljanja proizvodnjom?- 
+PRESKOCIO SI:Koji su ciljlevi Utvrdjivanje akumulativnosti proizvoda?-
+Za sta se koristi uproscena sema tehnoloskog procesa?-
+Koja su pravila za crtanje uproscene seme tehnoloskog procesa?-
+Nacrtaj uproscenu semu tehnoloskog procesa?-
+Sta je sema toka materijala, kada se koristi i sta se u nju ucrtava?-
+Cemu sluzi sema toka materijala x7 (popravlja sve standarne forice)?-
+raspored masina i RMa, metoda rada, kontola, unutrasnji transport, skladistenje, zastita coveka, snabdevanje energija + "tehnoloski fluidi" 
+Nacrtati semu toka materijala?-
+Kako se odredjuje optimalna velicina i broj serija?-
+Navedi svojstva serijske proizvodnje x3?-
+PRESKOCIO SI: BICE!!! Koje su dve grupe troskova serijske proizvodnje?-
+Nacrtaj graficki prikaz serijske proizvodnje?-
+Napisati formule za troskove pripreme i troskove skladistenja serije?-
+-----------------------------------------------------------------------
+Koje su 3 osnove za sagledavanje nacina rada?-
+Za sta se koristi metod trenutnog zapazanja?-
+Sta je metod trenutnog zapazajna?-
+Za sta se korisiti metod trenutnog zapazanja?-
+U kojim fazama se korisiti metod trenutnog zapazanja?-
+Koje je osnovno svojstvo TZ-a, tj. zbog cega ga uopste i koristimo?-
+Objasni direktnu zavisnost t-sprovodjenja i tacnosti rezultata metode "TZ?-
+Napisati formulu standardne devijacije binomne raspodele?-
+Napisati formulu tacnosti metode"TZ"?-
+Koji je postupak sprovodjenja metoda "TZ" x15?-
+Koji su postupci(faze) za utvrdjivanje profitabilnosti proizvoda?-
+Na osnovu kojih se sve kriterijuma vrsi selekcija proizvoda?-
+Od cega se sastoji primena seme "toka materijala" u projektovanju novih procesa x3?-
+Postupak upotrebe "šeme toka materijala" u postupku poboljšanja procesa x4 (najlakse)?-
+Sta ide posle plana proizvodnje?- Nacin proizvodnje, kada, u koliko navrata, i u kojim kolicinama
+Nacrtati semu "Odredjivanje nacina proizvodnje proizvoda P planirane kolicine Q"?-
+Kada se primenjuje serijska proizvodnja?-
+kada se planira nova serija istih proizvoda?-
+Koji su cinioci koji odredjuju velicinu serije i broj serija?-
+Koje su grupe troskova serijske proizvodnje?-
+Nacrtati semy "Zavisnost troskova velicine serije od velicine i broja serije"?-
+PRESKOCIO SI: Izracunavanje trs-a?-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
