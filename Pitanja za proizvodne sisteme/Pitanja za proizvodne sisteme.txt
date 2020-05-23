@@ -38,12 +38,13 @@ Na kojim radnim mestima se direktno stvara nova vrednost i kako se zove taj RAD?
 Navedi strukturu proizvodnog procesa (tj. elementarne procese u proizvodnji) x7?-
 Koje su razlike izmedju tehnoloskog i proizvodnog proces?-
 Nacrtati sliku Razlike izmedju proizvodnog i tehnoloskog proces?-
-Koja je podela proiz. procesa prema osnovnim vrstama tehnoloskog procesa?-
+I nije mnoooogo bitno.....Koja je podela proiz. procesa prema osnovnim vrstama tehnoloskog procesa?-
 PRESKOCIO SI: Vrste proizvodnih procesa!!!?-
 Sta je organizacija proizvodnje?-
 Koji su cinioci od kojih zavisi organizacija proizvodnje?-
 Cime je organizacija proizvodnje odredjena?-
-Koja su Osnovna sredstva proizvodnje?-
+Koja su Osnovna elementi proizvodnje?-
+Ne bi trebalo da bude.... Koje su osnovne odrednice dobre organizacije?- 
 Koja tri cinioca najvise opredeljuju organizaciju proizvodnje?-
 Koje su vrste organizovanje proizvodnje?-
 1. Objasni tehnolosku organizaciju?-
@@ -66,9 +67,9 @@ Masine se rasporedjuju po redosledu operacija
 Koriste se u masovnoj proizvodnji
 Sred. za pr. su skupa i specijalizovana
 Fleksibilnost je mala.
-Sta je organizacija rada u sirem smislu?-
-Sta je organizacija rada u uzem smislu?-
-Koje dve grupe cinioca uticu na efiksanost radnih mesta i produktivnost rada?-
+//Sta je organizacija rada u sirem smislu?-
+//Sta je organizacija rada u uzem smislu?-
+Koje dve grupe cinioca uticu na efikasnost radnih mesta i produktivnost rada?-
 Sta je radno mesto?-
 Od cega se sastoji radno mesto?-
 Kada je posao radnog mesta celovit?-
@@ -134,6 +135,20 @@ Koji su cinioci koji odredjuju velicinu serije i broj serija?-
 Koje su grupe troskova serijske proizvodnje?-
 Nacrtati semy "Zavisnost troskova velicine serije od velicine i broja serije"?-
 PRESKOCIO SI: Izracunavanje trs-a?-
+Podeli sredstva za proizvodnju na osnovu stepena mehanizacije i automatizacije?-
+Nacrtati semu navedenih grupa sredstava za rad?-
+Nactrati grafik zavisnosti produktivnosti od asortimana prozivoda?-
+Koja sredstva za proizvodnju je najbolje koristiti danas?-
+Nacrtati grafik ucesca radnika u procesu u zavisnost od vrste sredstava za rad?-
+Koji je osnovni kriterijum po kome biramo vrstu sredstava za rad?-
+Nacrtati zavisnost UKUPNIH TR od obima i vrste sredstava?-
+Nacrtati zavisnost PROSECNIH TR od obima i vrste sredstava?-
+Formulama prikazati zavisnost ukupnih TR od obima Q?-
+Formule za intervale(od-do) obima proizvodnje?-
+Formule za Q1 i Q2?-
+Sta je prag ekonomicnosti?-
+Nacrtati grafik zavisnosti UKUPNIH TR od obima pr. i vrste sr. za rad?-
+Nacrtati grafik zavisnosti PROSECNIH TR od obima pr. i vrste sr. za rad?-
 
 
 
