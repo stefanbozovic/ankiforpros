@@ -81,6 +81,10 @@
             right: 0px;
             font-size: 13px;
         }
+        .myheader{
+            opacity: 0.2;
+        }
+        
     </style>
 
     <script>
@@ -155,11 +159,21 @@ You Go the Extra Mile
 I Knew You Had It In You
 Way to Go!
 Excellent!
-    </p>
+</p>
+<div class="myheader">
     <textarea type="text" id="here" value="" >
-
     </textarea>
+    <div class="checkboxes">
+        <input type="checkbox" checked="checked" id="vehicle1" name="vehicle1" value="R">
+        <label for="vehicle1"> Red</label><br>
+        <input type="checkbox" checked="checked" id="vehicle2" name="vehicle2" value="Y">
+        <label for="vehicle2"> Yellow</label><br>
+        <input type="checkbox" checked="checked" id="vehicle3" name="vehicle3" value="G">
+        <label for="vehicle3"> Green</label><br>
+    </div>
     <button id="submit" onclick="getDancers()">SAMO PRELAZI BRZO, ne kreativno, nego pravo</button>
+</div>
+    <hr>
     <button id="" onclick="RemoveLastRow()">RemoveLastRow</button>
     <button id="neznam" class="neznam" onclick="neZnam()">0</button>
     <button id="onako" class="onako" onclick="Onako()">0</button>
@@ -271,9 +285,18 @@ Excellent!
         var neznam = document.getElementById("neznam");
         var onako = document.getElementById("onako");
         var znam = document.getElementById("znam");
+        
+        var ch1 = document.getElementById("vehicle1");
+        var ch2 = document.getElementById("vehicle2");
+        var ch3 = document.getElementById("vehicle3");
         function getDancers() {
+            
             openFullscreen();
             notifyMe();
+            
+            ch1 = document.getElementById("vehicle1");
+            ch2 = document.getElementById("vehicle2");
+            ch3 = document.getElementById("vehicle3");
             var textarea = document.getElementById("here");
             var divhere = document.getElementById("divhere");
             divhere.innerHTML="<br><br><br><br><br><br><br>"; //clear divhere before inputing everything
@@ -296,9 +319,9 @@ Excellent!
                
                 divhere.appendChild(novired);
                 switch(divhere.children[divhere.children.length - 1].textContent.substring(1,0) ){
-                    case "R":   JustColorRed();  break;
-                    case "Y":   JustColorYellow();  break;
-                    case "G":   JustColorGreen();  break;
+                    case "R":   if(ch1.checked){ JustColorRed()} else {JustColorUnvisible()};  break;
+                    case "Y":   if(ch2.checked){ JustColorYellow()} else {JustColorUnvisible()};  break;
+                    case "G":   if(ch3.checked){ JustColorGreen()} else {JustColorUnvisible()};  break;
                     default:    break;
                 }
                 novired.scrollIntoView();
@@ -314,6 +337,7 @@ Excellent!
             i--;
             divhere.children[divhere.children.length - 1].remove();
         }
+       
         window.onkeydown = CheckKey;
 
         function CheckKey(e) {
@@ -382,6 +406,10 @@ Excellent!
         }
         function JustColorGreen(){
             divhere.children[divhere.children.length - 1].style.color = "#85ff85";
+
+        }
+        function JustColorUnvisible(){
+            divhere.children[divhere.children.length - 1].style.visibility = "hidden";
 
         }
         
