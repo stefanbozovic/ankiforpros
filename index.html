@@ -68,7 +68,6 @@
             margin: 0px;
         }
         .refresh {
-            background: url(1-minute.gif) !important;
             background-size: 59% !important;
             background-position: center;
             background-repeat: no-repeat !important;
@@ -124,9 +123,6 @@
     }
     </script>
 </head>
-
-
-
 <body  title="Ne razmisljaj mnogo!">
 <div id="body" >
     <p id="usersname">Login!</p>
@@ -242,9 +238,6 @@ Excellent!
                 }
                 cancel = setInterval(incrementSeconds, 1000);
             }
-
-           
-            
         </script>
     </div>
 </div> 
@@ -283,6 +276,7 @@ Excellent!
             notifyMe();
             var textarea = document.getElementById("here");
             var divhere = document.getElementById("divhere");
+            divhere.innerHTML="<br><br><br><br><br><br><br>"; //clear divhere before inputing everything
             array = textarea.value.split("\n");
             console.log("getDancers -> textarea.value.split(n)", textarea.value.split("\n"))
             var novired = document.createElement("p");
@@ -298,7 +292,15 @@ Excellent!
                 i++;  
                 var novired = document.createElement("p");
                 novired.textContent = array[i];
+              //  if first letter R then color red
+               
                 divhere.appendChild(novired);
+                switch(divhere.children[divhere.children.length - 1].textContent.substring(1,0) ){
+                    case "R":   JustColorRed();  break;
+                    case "Y":   JustColorYellow();  break;
+                    case "G":   JustColorGreen();  break;
+                    default:    break;
+                }
                 novired.scrollIntoView();
             } 
             else{
@@ -355,14 +357,32 @@ Excellent!
         function ColorRed(){
             divhere.children[divhere.children.length - 1].style.color = "#ff6d6d";
             divhere.children[divhere.children.length - 1].style.fontSize = "14px";
+            divhere.children[divhere.children.length - 1].textContent= "R" + divhere.children[divhere.children.length - 1].textContent.substr(1);
+            
         }
         function ColorYelow(){
             divhere.children[divhere.children.length - 1].style.fontSize = "14px";
             divhere.children[divhere.children.length - 1].style.color = "#e6e625";
+            divhere.children[divhere.children.length - 1].textContent= "Y" + divhere.children[divhere.children.length - 1].textContent.substr(1);
+
         }
         function ColorGreen(){
             divhere.children[divhere.children.length - 1].style.fontSize = "14px";
             divhere.children[divhere.children.length - 1].style.color = "#85ff85";
+            divhere.children[divhere.children.length - 1].textContent= "G" + divhere.children[divhere.children.length - 1].textContent.substr(1);
+
+        }
+        function JustColorRed(){
+            divhere.children[divhere.children.length - 1].style.color = "#ff6d6d";
+                
+        }
+        function JustColorYelow(){
+            divhere.children[divhere.children.length - 1].style.color = "#e6e625";
+
+        }
+        function JustColorGreen(){
+            divhere.children[divhere.children.length - 1].style.color = "#85ff85";
+
         }
         
         function Progress(){
