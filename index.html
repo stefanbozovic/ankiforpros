@@ -186,9 +186,7 @@ Excellent!
         <div id="myBar">0%</div>
     </div>
     <div>
-        <h6 id="seconds-counter" title="Mozak moze samo 25 minuta da se fokusira na jednu stvar"> 25:00
-            </canvas>
-        </h6>
+        <h6 id="seconds-counter" title="Mozak moze samo 25 minuta da se fokusira na jednu stvar"> 25:00 </h6>
         <script>
             var ap = document.getElementById('praises');
             praisesarr = ap.textContent.split("\n");
@@ -204,16 +202,16 @@ Excellent!
                 return praisesarr[Math.floor(Math.random()*praisesarr.length)];
             }
             function WorkTime(){
-                var timeis =  1200.0;
+                var timeis =  2500.0;
                 var el = document.getElementById('seconds-counter');
                 function incrementSeconds() {
-                    if(timeis>=(1200-5) && control==0){
+                    if(timeis>=(2500-5) && control==0){
                         var ht = document.getElementById('headertext');
                         ht.innerHTML=" " + getPraise();
                         control=1;
                     }
                     else{
-                        if(timeis==(1200-5)){
+                        if(timeis==(2500-5)){
                             var ht = document.getElementById('headertext');
                             ht.innerHTML=" ";
                         }
